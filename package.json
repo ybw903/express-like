@@ -1,0 +1,22 @@
+{
+  "name": "express-like",
+  "version": "1.0.0",
+  "description": "web framework like express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybw903/express-like.git"
+  },
+  "keywords": [
+    "expres"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ybw903/express-like/issues"
+  },
+  "homepage": "https://github.com/ybw903/express-like#readme"
+}
