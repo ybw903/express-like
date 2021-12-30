@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ybw903/express-like/issues"
   },
-  "homepage": "https://github.com/ybw903/express-like#readme"
+  "homepage": "https://github.com/ybw903/express-like#readme",
+  "dependencies": {
+    "merge-descriptors": "^1.0.1"
+  }
 }
